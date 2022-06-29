@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is added by f2
+=======
+this line added by f1
+>>>>>>> f1
